@@ -45,10 +45,10 @@ Buka browser (chrome/edge) dan akses antarmuka Swagger UI di: http://localhost:8
 
 ### 3. Pengujian 
 Laman `SwaggerAPI` (http://localhost:8080/docs) akan menampilkan seluruh fungsi-fungsi API yang telah dibuat dalam file `api.py`.
-    -   Klik pada fungsi yang akan diakses.
-    -   Klik `Try it out`
-    -   Lengkapi formulir (parameters fungsi) yang dibutuhkan.
-    -   Klik `Execute` untuk melakukan "submission".
+-   Klik pada fungsi yang akan diakses.
+-   Klik `Try it out`
+-   Lengkapi formulir (parameters fungsi) yang dibutuhkan.
+-   Klik `Execute` untuk melakukan "submission".
 
 
 
