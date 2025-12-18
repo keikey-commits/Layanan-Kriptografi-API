@@ -17,6 +17,10 @@ Proyek UAS Mata Kuliah Keamanan dan Integritas Data Semester 3 Sains Data Unesa
 2. api.py: Core logic API, autentikasi, dan verifikasi kriptografi.
 3. client.py: Simulasi user untuk membuat kunci dan signature.
 
+## Prasyarat
+Sebelum menjalankan proyek ini, pastikan komputer Anda telah terinstal **`uv`** (Python Package Manager).
+Kunjungi https://docs.astral.sh/uv/ untuk metode instalasinya
+
 ## Cara Menjalankan (Pipeline)
 Ikuti langkah-langkah berikut untuk mensimulasikan alur kerja Client-Server:
 
